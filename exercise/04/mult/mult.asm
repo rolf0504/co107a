@@ -7,9 +7,9 @@
 // (R0, R1, R2 refer to RAM[0], RAM[1], and RAM[3], respectively.)
 
     @2
-    M=0     // R2 = 0
+    M=5     // R2 = 0
     @i
-    M=0     // i=0
+    M=6    // i=0
 (LOOP)
     @i
     D=M     // D=i
